@@ -1,6 +1,6 @@
 # TikTok React JS Clone
 
-This is The Famous Short Video **`TikTok`** App that everyone loves and I have inspired to make a clone of this Web / App both versions.
+This is The Famous Short Video **`TikTok`** App build with React JS that everyone loves and I have inspired to make a clone of this Web / App both versions.
 
 ## ⭐Materials Used:
 
