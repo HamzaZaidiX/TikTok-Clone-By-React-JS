@@ -1,0 +1,32 @@
+html {
+  scroll-snap-type: y mandatory;
+}
+
+.app {
+  height: 150vh;
+  background-color: black;
+  display: grid;
+  place-items: center;
+}
+
+.app_videos {
+  position: relative;
+  height: 600px;
+  overflow: scroll;
+  width: 60%;
+  max-width: 500px;
+  scroll-snap-type: y mandatory;
+  border-radius: 2%;
+
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+  
+}
+
+/* For Hiding  Scrollbar in Chrome, Safari and Opera Browser  */
+.app_videos::-webkit-scrollbar {
+  display: none;
+}
